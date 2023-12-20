@@ -1,0 +1,248 @@
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 59.6px;
+  width: 1182.5px;
+  height: 1285.8px;
+  object-fit: contain;
+}
+.group-inner {
+  top: 24px;
+  left: 0;
+  width: 1231.2px;
+  height: 1247.5px;
+}
+.can-be-changed {
+  margin: 0;
+}
+.building-better-work-container {
+  position: absolute;
+  height: 54.32%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -2.4px;
+  line-height: 74px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.email-marketing,
+.email-marketing1,
+.email-marketing2,
+.email-marketing3,
+.email-marketing4,
+.email-marketing5 {
+  position: absolute;
+  width: 79.83%;
+  top: calc(50% - 125px);
+  left: 20.17%;
+  letter-spacing: -0.55px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.email-marketing1,
+.email-marketing2,
+.email-marketing3,
+.email-marketing4,
+.email-marketing5 {
+  width: 10.36%;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-deepskyblue);
+}
+.email-marketing2,
+.email-marketing3,
+.email-marketing4,
+.email-marketing5 {
+  width: 11.76%;
+  top: calc(50% - 70px);
+}
+.email-marketing3,
+.email-marketing4,
+.email-marketing5 {
+  top: calc(50% - 15px);
+}
+.email-marketing4,
+.email-marketing5 {
+  width: 12.89%;
+  top: calc(50% + 40px);
+}
+.email-marketing5 {
+  width: 11.76%;
+  top: calc(50% + 95px);
+}
+.email-marketing6,
+.email-marketing7,
+.email-marketing8,
+.email-marketing9 {
+  position: absolute;
+  width: 79.83%;
+  top: calc(50% - 70px);
+  left: 20.17%;
+  letter-spacing: -0.55px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.email-marketing7,
+.email-marketing8,
+.email-marketing9 {
+  top: calc(50% - 15px);
+}
+.email-marketing8,
+.email-marketing9 {
+  top: calc(50% + 40px);
+}
+.email-marketing9 {
+  top: calc(50% + 95px);
+}
+.email-marketing-parent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 172.4px);
+  right: 0;
+  left: 0;
+  height: 250px;
+}
+.button-text2 {
+  position: absolute;
+  width: 100%;
+  top: 30.12%;
+  left: 0;
+  letter-spacing: -0.4px;
+  font-weight: 600;
+  display: inline-block;
+}
+.elements-buttons-outline-parent {
+  position: absolute;
+  height: 14.44%;
+  width: 51.18%;
+  top: 85.56%;
+  right: 48.82%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--buttons-small-size);
+  color: var(--color-whitesmoke-100);
+}
+.group-parent1 {
+  position: absolute;
+  width: 76.77%;
+  top: calc(50% + 78.6px);
+  right: 23.23%;
+  left: 0;
+  height: 344.8px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkgray);
+}
+.group-frame,
+.group-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-wrapper {
+  height: 65.86%;
+  width: 28.21%;
+  top: 18.04%;
+  bottom: 16.1%;
+  left: 71.79%;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 193px;
+  left: 238.6px;
+  width: 855px;
+  height: 925px;
+  object-fit: cover;
+}
+.group-child1,
+.group-child2,
+.group-child3 {
+  position: absolute;
+  top: 371px;
+  left: 341.6px;
+  border-radius: var(--br-9xs);
+  width: 276px;
+  height: 162px;
+  object-fit: cover;
+}
+.group-child2,
+.group-child3 {
+  top: 349px;
+  left: 703.6px;
+}
+.group-child3 {
+  top: 741px;
+}
+.base9,
+.icon-color {
+  position: absolute;
+  right: 0;
+}
+.base9 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5.83px;
+  background-color: var(--color-darkslateblue-100);
+}
+.icon-color {
+  height: 62.86%;
+  width: 12.78%;
+  top: 21.43%;
+  bottom: 15.71%;
+  left: 87.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.button-text3 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 0;
+  letter-spacing: -0.29px;
+  font-weight: 600;
+}
+.base-parent,
+.icon-color-parent {
+  position: absolute;
+  height: 36.75%;
+  width: 57.73%;
+  top: 31.5%;
+  right: 20.99%;
+  bottom: 31.76%;
+  left: 21.28%;
+}
+.base-parent {
+  height: 2.96%;
+  width: 8.55%;
+  top: 47.67%;
+  right: 70.73%;
+  bottom: 49.36%;
+  left: 20.72%;
+  text-align: right;
+  font-size: var(--font-size-xs-7);
+  color: var(--white);
+}
+.group-container {
+  position: absolute;
+  top: 3087px;
+  left: -65.6px;
+  width: 1648.6px;
+  height: 1285.8px;
+  text-align: left;
+  font-size: var(--font-size-46xl);
+  color: var(--color-gray-400);
+  font-family: var(--buttons-small);
+}

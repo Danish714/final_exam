@@ -1,0 +1,56 @@
+.create-screens-direc3 {
+  position: absolute;
+  height: 9.5%;
+  width: 83.41%;
+  top: 72.88%;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+}
+.button-text6,
+.frequently-asked-questions2 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.frequently-asked-questions2 {
+  height: 68.46%;
+  top: 0;
+  font-size: var(--font-size-71xl);
+  letter-spacing: -2.4px;
+  line-height: 100px;
+  color: var(--color-gray-400);
+}
+.button-text6 {
+  top: 30.12%;
+  letter-spacing: -0.4px;
+}
+.elements-buttons-outline-parent1 {
+  position: absolute;
+  height: 11%;
+  width: 42.1%;
+  top: 89%;
+  right: 57.9%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--buttons-small-size);
+  color: var(--color-whitesmoke-100);
+}
+.create-screens-direc-group {
+  position: absolute;
+  height: 84.79%;
+  width: 32.98%;
+  top: 7.68%;
+  right: 0;
+  bottom: 7.53%;
+  left: 67.02%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkgray);
+  font-family: var(--buttons-small);
+}

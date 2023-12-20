@@ -1,0 +1,43 @@
+.base4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary);
+}
+.button-text1 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 12.16%;
+  letter-spacing: -0.4px;
+  font-weight: 600;
+}
+.icons-flash-rounded {
+  position: absolute;
+  top: 9px;
+  right: 12px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.button1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.elements-buttons-primary {
+  width: 148px;
+  height: 40px;
+  text-align: right;
+  font-size: var(--buttons-small-size);
+  color: var(--white);
+  font-family: var(--buttons-small);
+}
